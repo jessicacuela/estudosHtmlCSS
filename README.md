@@ -1,2 +1,2 @@
-# estudosHtmlCSS
-Repositório coa finalidade de estudar html css
+# estudos sobre a linguagem de marcação Html5 e CSS3.
+
